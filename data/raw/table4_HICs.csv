@@ -1,0 +1,20 @@
+Compound_ID,Retention_time_min,Tentative_identification,Molecular_formula,Monoisotopic_mass,Match_factor,Peak_area_EMA,Peak_area_EVA
+A03,6.688,4-Hydroxy-2-5-dimethyl-3(2H)-furanone (HDMF),C6H8O3,128.0473,70,,1.42
+A05,7.003,3-Methylcyclopentane-1-2-4-trione,C6H6O3,126.0316,80,16.16,
+A06,7.833,Glycerol,C3H8O3,92.0473,73,7.50,
+A07,8.087,2-3-Dihydro-3-5-dihydroxy-6-methyl-4H-pyran-4-one (DDMP),C6H8O4,144.0422,90,22.94,7.60
+A09,10.293,2-Methoxy-4-vinylphenol,C9H10O2,150.0680,87,,4.15
+A10,10.365,4-Methylcatechol,C7H8O2,124.0524,77,2.61,
+A13,10.767,2-6-Dimethoxyphenol,C8H10O3,154.0629,89,,5.78
+A15,11.505,1-2-3-Benzenetriol,C6H6O3,126.0316,81,3.74,
+A17,12.747,2-4-Di-tert-butylphenol,C14H22O,206.1670,91,,3.15
+A18,12.837,1-6-Anhydro-b-D-glucopyranose,C6H10O5,162.0528,83,,5.79
+A19,13.102,4-Butyl-2-methoxyphenol,C11H16O2,180.1150,80,,3.32
+A22,15.073,1-Hydroxycyclohexyl phenyl ketone,C13H16O2,204.1150,92,3.08,3.91
+A23,15.579,Tetradecanoic acid,C14H28O2,228.2089,88,2.70,
+A24,17.699,n-Hexadecanoic acid,C16H32O2,256.2402,88,2.40,5.07
+A25,17.938,3-(3-5-Di-tert-butyl-4-hydroxyphenyl)propionic acid,C17H26O3,278.1881,88,2.58,3.54
+A26,19.349,cis-Vaccenic acid,C18H34O2,282.2558,90,,11.26
+A27,19.602,Octadecanoic acid,C18H36O2,284.2715,84,2.20,
+A28,21.312,Eicosanoic acid,C20H40O2,312.3028,79,2.68,
+A29,23.526,3-4-Dimethoxyphenol,C8H10O3,154.0629,85,,6.73
